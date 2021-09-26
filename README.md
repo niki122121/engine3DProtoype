@@ -1,4 +1,4 @@
-# engine3DProtoype
+# Prototype of a 3D Physics Engine
 My own 3D physics engine build from scratch. It includes the following features:
 
 -Physically perfect 3d collisions for spherical and cube shaped colliders.

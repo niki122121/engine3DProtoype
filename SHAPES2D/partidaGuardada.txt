@@ -1,0 +1,7 @@
+Archivo de datos de Juego
+Puntos nivel: 0 = 0
+Puntos nivel: 1 = 30
+Puntos nivel: 2 = 30
+Puntos nivel: 3 = 0
+Puntos nivel: 4 = 0
+Nivel guardado  :2

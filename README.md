@@ -1,6 +1,6 @@
 # Prototype of a 3D Physics Engine
 My own 3D physics engine build from scratch. It includes the following features:
-* Physically perfect 3d collisions for spherical and cube shaped colliders.
+* Physically realistic 3d collisions for spherical and cube shaped colliders.
 * Basic lighting.
 * Multiple cameras.
 * Posibility of adding textures apart from solid colors.
@@ -14,7 +14,7 @@ Also ignore any compile errors trying it.
 
 # Prototipo de Motor de físicas 3D
 My propio motor de físicas 3D construido de cero. Incluye lo siguiente:
-* Collisiones 3D fisicamente perfectas para cuerpos esférico y cúbicos.
+* Collisiones 3D fisicamente realistas para cuerpos esférico y cúbicos.
 * Iluminación básica.
 * Multiples cámaras.
 * Posibilidad de añadir texturas aparte de colores sólidos.
